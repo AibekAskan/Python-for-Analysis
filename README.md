@@ -1,6 +1,6 @@
 # Python for Analysis
 
-Репозиторий с домашними проектами по анализу данных на Python, выполненными в рамках курса **Academica Python for Data Analysis**.
+Репозиторий с домашними проектами по анализу данных на Python, выполненными в рамках курса **Academica Courses: Data Analytics**.
 
 ## Описание
 
